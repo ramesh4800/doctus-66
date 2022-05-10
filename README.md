@@ -1,3 +1,2 @@
 # doctus-66
-
-testing
+test
